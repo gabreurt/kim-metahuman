@@ -3,12 +3,11 @@
 [![Fei em ação](feilinda.PNG)](https://www.youtube.com/watch?v=h3Rmay4CGzU)
 Clique na imagem para ser redirecionado ao vídeo de apresentação de Fei no Youtube.
 <br>
-<br>
-<br>
 
 Nome: Fei <br>
 Personalidade: Educada, simpática e altamente eficiente, Fei transmite confiança e praticidade, auxiliando clientes de forma personalizada. <br>
 Função: Recomendar roupas, sugerir combinações, apresentar novos estilos e permitir o teste virtual de roupas. Fei também responde dúvidas sobre materiais, tamanhos e disponibilidade de produtos.
+<br>
 <br>
 A Fei foi criada para revolucionar a experiência de compra de roupas, oferecendo recomendações personalizadas e a possibilidade de testar roupas virtualmente. Seu objetivo é tornar o processo de escolha mais eficiente e prático, tanto em lojas físicas quanto no conforto de casa.
 
