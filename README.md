@@ -1,8 +1,6 @@
 # Apresentação Fei
 
-<video controls width="600">
-  <source src="feitop.mp4" type="video/mp4">
-</video>
+[![Fei em ação](feilinda.PNG)](https://www.youtube.com/watch?v=h3Rmay4CGzU)
 
 Nome: Fei
 Personalidade: Educada, simpática e altamente eficiente, Fei transmite confiança e praticidade, auxiliando clientes de forma personalizada.
@@ -17,16 +15,15 @@ A Fei foi criada para revolucionar a experiência de compra de roupas, oferecend
 2. Metaquest 3 (realidade virtual): Permitindo que os usuários experimentem roupas e comprem diretamente online. No ambiente virtual, o usuário escolhe as peças de uma loja virtual, experimenta-as em tempo real com o auxílio da Fei e finaliza a compra online, tornando a experiência de compra digital mais imersiva.
 
 
-![Feiiii](feilinda.PNG)
-
-
 Ela é uma jovem adulta do gênero feminino, transmitindo modernidade e conexão com tendências da moda. Seu cabelo roxo com estilo moderno reflete diversidade e criatividade, alinhando-se ao universo fashion. Fei usa de roupas estilosas e descoladas e possui expressões gentis e acolhedoras, transmitindo confiabilidade e incentivando a interação.
 
 A escolha de elementos como a cor vibrante do cabelo e o estilo minimalista garante que a Fei seja reconhecida facilmente como uma assistente moderna e antenada no mundo da moda.
 
 As suas inspirações foram a Amanda Bright (Life Is Strange: Double Exposure) e a Kat (Euphoria) por sua personalidade e vestuário.
 
-![Amanda Bright](amandabright.png)
-![Kat Ferreira](katferreira.png)
+<p align="center">
+  <img src="amandabright.png" alt="Amanda Bright" width="300">
+  <img src="katferreira.png" alt="Kat Ferreira" width="300">
+</p> 
 
 Esse é o [link](Fei.mhb) para o arquivo .mhb de Fei. Para chegar ao resultado final, foi utilizado os softwares: MetaHuman Creator (criação de personagem), Bark (criação da voz da Fei), Unreal Engine (animação) e Microsoft Clipchamp (edição de vídeo).
