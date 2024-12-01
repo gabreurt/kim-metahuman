@@ -1,7 +1,7 @@
 # Apresentação Fei
 
 [![Fei em ação](feilinda.PNG)](https://www.youtube.com/watch?v=h3Rmay4CGzU)
-Clique na imagem para ser redirecionado ao vídeo de apresentação de Fei no Youtube.
+Clique na imagem para ser redirecionada ao vídeo de apresentação de Fei no Youtube.
 <br>
 
 Nome: Fei <br>
