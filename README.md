@@ -1,6 +1,8 @@
-# Apresentação Kim
+# Apresentação Fei
 
-![Apresentação Fei](gabs%20‐%20Feito%20com%20o%20Clipchamp.mp4)
+<video controls width="600">
+  <source src="gabs ‐ Feito com o Clipchamp.mp4" type="video/mp4">
+</video>
 
 Nome: Fei
 Personalidade: Educada, simpática e altamente eficiente, Fei transmite confiança e praticidade, auxiliando clientes de forma personalizada.
@@ -22,4 +24,9 @@ Ela é uma jovem adulta do gênero feminino, transmitindo modernidade e conexão
 
 A escolha de elementos como a cor vibrante do cabelo e o estilo minimalista garante que a Fei seja reconhecida facilmente como uma assistente moderna e antenada no mundo da moda.
 
-Esse é o [link](Fei.mhb) para o arquivo .mhb de Fei.
+As suas inspirações foram a Amanda Bright (Life Is Strange: Double Exposure) e a Kat (Euphoria).
+
+![Amanda Bright](amandabright.png)
+![Kat Ferreira](katferreira.png)
+
+Esse é o [link](Fei.mhb) para o arquivo .mhb de Fei. Para chegar ao resultado final, foi utilizado os softwares: MetaHuman Creator (criação de personagem), Bark (criação da voz da Fei), Unreal Engine (animação) e Microsoft Clipchamp (edição de vídeo).
