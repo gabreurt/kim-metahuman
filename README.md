@@ -1,7 +1,7 @@
 # Apresentação Fei
 
 <video controls width="600">
-  <source src="gabs ‐ Feito com o Clipchamp.mp4" type="video/mp4">
+  <source src="feitop.mp4" type="video/mp4">
 </video>
 
 Nome: Fei
@@ -24,7 +24,7 @@ Ela é uma jovem adulta do gênero feminino, transmitindo modernidade e conexão
 
 A escolha de elementos como a cor vibrante do cabelo e o estilo minimalista garante que a Fei seja reconhecida facilmente como uma assistente moderna e antenada no mundo da moda.
 
-As suas inspirações foram a Amanda Bright (Life Is Strange: Double Exposure) e a Kat (Euphoria).
+As suas inspirações foram a Amanda Bright (Life Is Strange: Double Exposure) e a Kat (Euphoria) por sua personalidade e vestuário.
 
 ![Amanda Bright](amandabright.png)
 ![Kat Ferreira](katferreira.png)
